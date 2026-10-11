@@ -25,7 +25,7 @@ MCP, an agent mode writes and runs actual files on your disk, and a local
 API server can turn the app itself into an OpenAI-compatible endpoint for
 whatever else you're building.
 
-## [Eaon ADE](https://github.com/eaonlabs/Eaon-ADE)
+## [Eaon ADE](https://github.com/eaonlabs/Eaon-ADE) [Now retired]
 
 An agentic development environment. Run a dozen CLI coding agents side by
 side — Claude Code, Codex, whatever else speaks a terminal — see which ones
